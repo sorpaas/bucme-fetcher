@@ -1,0 +1,30 @@
+PHPSESSID
+b03f4nc472bcjvvnnh5v2gj0h1
+www.bucme.hkbu.edu.hk
+/
+Session
+35
+__gads
+ID=73e0f5c5a3152775:T=1391738928:S=ALNI_MYO0B6hawlxPIzsnDimcorWUFHjmg
+.hkbu.edu.hk
+/
+Sun, 07 Feb 2016 02:08:48 GMT
+75
+__utma
+214034824.1696783191.1390307202.1392025724.1392025724.1
+.hkbu.edu.hk
+/
+Wed, 10 Feb 2016 09:48:43 GMT
+61
+__utmz
+214034824.1392025724.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.hkbu.edu.hk
+/
+Mon, 11 Aug 2014 21:48:43 GMT
+76
+_ga
+GA1.3.1696783191.1390307202
+.hkbu.edu.hk
+/
+Sat, 13 Feb 2016 00:49:39 GMT
+30
